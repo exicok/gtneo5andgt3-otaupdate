@@ -7,6 +7,7 @@ gtneo5最新版全量更新链接
 <br>
 <br>
 国内地址https://gitee.com/exicok/rmx3706-ota-cn
+
 全球地址https://github.com/exicok/rmx3706-ota-cn
 
 
@@ -14,7 +15,7 @@ gtneo5最新版全量更新链接
 <br>
 <br>
 
-# 解包
+# 解包及数据包链接
 #### 需要下载解压软件如7z官方完整版windows不需要
 
 https://github.com/ssut/payload-dumper-go
