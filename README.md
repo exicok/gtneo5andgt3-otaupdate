@@ -8,6 +8,9 @@ gtneo5最新版全量更新链接
 <br>
 国内地址https://gitee.com/exicok/rmx3706-ota-cn
 全球地址https://github.com/exicok/rmx3706-ota-cn
+
+
+国内地址缘分更新
 <br>
 <br>
 
