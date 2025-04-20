@@ -1,129 +1,21 @@
 # RMX3706_CN_ROM
-- Offical ROM  官方固件   OTA
-- RMX3706      
-- Realme GT NEO5 150W CN
-- 真我 GT Neo5 150W
-- GT Neo5 150W
-- China mainland version
-- https://www.realme.com/realme-gt-neo-5
+gtneo5最新版更新链接
 
 <br>
 <br>
 
-
-# Search OTA download link by yourself
-#### Use this
-
-https://github.com/R0rt1z2/realme-ota
-
-#### Query command
-
-Realme UI 4 `realme-ota -r 1 RMX3706 RMX3706_11.A.00_0000_000000000000 4 0`
-
-Realme UI 5 `realme-ota -r 1 RMX3706 RMX3706_11.C.00_0000_000000000000 5 0`
-
-Realme UI 6 `realme-ota -r 1 RMX3706 RMX3706_11.F.00_0000_000000000000 6 0`
-
-```
-positional arguments:
-  product_model         Product Model (ro.product.name).
-  ota_version           OTA Version (ro.build.version.ota).
-  {1,2,3,4,5,6}         RealmeUI Version (ro.build.version.realmeui).
-  nv_identifier         NV (carrier) identifier (ro.build.oplus_nv_id) (ifnone, provide 0 or omit).
-```
-
-Execute `getprop <prop>` in the mobile terminal to get the corresponding information
-
-Such as `getprop ro.build.version.ota`
-
-
-
-#### For more info
-
-- https://forum.xda-developers.com/t/global-eu-collection-of-firmware-files.4478153
-- https://www.facebook.com/groups/1497997480377295/permalink/2616632928513739
-
 <br>
 <br>
-
-# Check version
-Open the zip you will see `payload_properties.txt`
-```
-FILE_HASH=LBZPxL4vb3PBtUzqbkPrxKNh+rq9InyxkIKFB24vO4Y=
-FILE_SIZE=7378166928
-METADATA_HASH=MII7YsvkoNlWI7qALSvoNSRIGWL9zJW8i79kPS9Yq8o=
-METADATA_SIZE=273645
-ota_target_version=RMX3706_11.A.36_0360_202305152136
-security_patch_vendor=2023-05-05
-oplus_rom_version=V13.1.0
-security_patch=2023-05-05
-oplus_update_engine_verify_disable=0
-oplus_separate_soft=22624
-```
-RMX3706_11.A.36_0360_202305152136 == RMX3706_13.1.0.106(CN01)
 
 <br>
 <br>
 
 # Extract images from OTA zip files
-#### Download and unzip
+#### 需要下载解压软件如7z官方完整版windows不需要
 
 https://github.com/ssut/payload-dumper-go
 
-#### Command
 
-`.\payload-dumper-go.exe path_to_your_zip`
-
-#### Example
-
-After completion you can find various images in `extracted_date_time`
-
-##### Show list of partitions in payload.bin
-
- `.\payload-dumper-go.exe -l .\b979db22cbf74dce83e7e0441bb1a29d.zip`
-
-##### Extra all
-
-`.\payload-dumper-go.exe .\514f4cc67a1941a3a823aa90a641d177.zip`
-
-##### Extra bootloader only
-
-`.\payload-dumper-go.exe -p boot .\514f4cc67a1941a3a823aa90a641d177.zip`
-
-<br>
-<br>
-
-
-# Flash bootloader
-- Unlock bootloder lock, by using this offical app: https://www.realmebbs.com/post-details/1626138770372190208
-- Turn off the phone, press `volume down` + `power button` get in to fastboot
-- Connect your phone and computer using USB in fastboot mode
-- Install Google USB Driver https://developer.android.com/studio/run/win-usb (Chinese Guide: https://zhuanlan.zhihu.com/p/366904302)
-- Download https://developer.android.com/tools/releases/platform-tools
-- Unzip and open powershell in platform-tools dir
-- Optional, test if the bootloder works  `.\fastboot.exe boot .\boot.img` 
-- Flash bootloder`.\fastboot.exe flash boot .\boot.img`
-- Reboot device `.\fastboot.exe reboot`
-
-#### How to Root
-Just install magisk app, select `patch a file`, select the `boot.img` you extracted from the OTA ROM package. Of course, it must match your system version.
-and flash patched bootloader `magisk_patched_boot.img`.
-
-##### Root failed? 
-
-Flash the the original `boot.img`.
-
-<br>
-<br>
-
-
-# OTA collection
-
-**If you got 403**
-
-  - Try replacing the beginning of the url with `https://gauss-compotacostauto-cn.allawnfs.com` or `https://gauss-otacostmanual-cn.allawnfs.com`
-  - Try use `wget` to download run `winget install wget` or use linux
-  - Try download on your phone
 
 <br>
 <br>
