@@ -18,7 +18,8 @@ https://github.com/ssut/payload-dumper-go
 <br>
 <br>
 #刷入全量包
-
+##首先下载Fastboot Enhance 
+###https://github.com/libxzr/FastbootEnhance/releases
 <br>
 <br>
 
