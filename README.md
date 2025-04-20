@@ -3,7 +3,7 @@ gtneo5最新版全量更新链接
 
 <br>
 <br>
-#列表内容为UTF-8建议克隆本地查看
+# 列表内容为UTF-8建议克隆本地查看
 <br>
 <br>
 
@@ -17,9 +17,15 @@ https://github.com/ssut/payload-dumper-go
 
 <br>
 <br>
-#刷入全量包
-##首先下载Fastboot Enhance 
-###https://github.com/libxzr/FastbootEnhance/releases
+
+<br>
+<br>
+# 刷入全量包
+## 首先下载Fastboot Enhance 
+### https://github.com/libxzr/FastbootEnhance/releases
+<br>
+<br>
+
 <br>
 <br>
 
