@@ -1,5 +1,5 @@
 # RMX3706_CN_ROM
-gtneo5最新版更新链接
+gtneo5最新版全量更新链接
 
 <br>
 <br>
@@ -15,10 +15,10 @@ gtneo5最新版更新链接
 
 https://github.com/ssut/payload-dumper-go
 
-
-
 <br>
 <br>
+#刷入全量包
+
 <br>
 <br>
 
