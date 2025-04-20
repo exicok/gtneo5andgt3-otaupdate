@@ -3,14 +3,14 @@ gtneo5最新版更新链接
 
 <br>
 <br>
-
+#列表内容为UTF-8建议克隆本地查看
 <br>
 <br>
 
 <br>
 <br>
 
-# Extract images from OTA zip files
+# 解包
 #### 需要下载解压软件如7z官方完整版windows不需要
 
 https://github.com/ssut/payload-dumper-go
