@@ -6,7 +6,8 @@ gtneo5最新版全量更新链接
 # 列表内容为UTF-8建议克隆本地查看
 <br>
 <br>
-
+国内地址https://gitee.com/exicok/rmx3706-ota-cn
+全球地址https://github.com/exicok/rmx3706-ota-cn
 <br>
 <br>
 
