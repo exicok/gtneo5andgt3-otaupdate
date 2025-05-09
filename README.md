@@ -1,6 +1,7 @@
 <h1> 
 gtneo5国内版本有ota更新仓库就会更新，外版本随缘更新
 
+
 The domestic version of gtneo5 will be updated if there is an OTA update repository, while the international version will be updated at random.
 </h1>
 <P>
@@ -62,3 +63,7 @@ Rollback Firmware  International
 | 版本号 | RU   | 
 |---|-------|
 | 14.0.0.903 | [链接](https://download.c.realme.com/flash/Rollbackpack/GT3/RMX3709_11_A_OTA_0310_all_5DOdpZ_RU.zip) |
+
+QQ:1041111063
+
+TG: t.me/gtneo5
