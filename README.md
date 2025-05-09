@@ -13,9 +13,11 @@ SA=Saudi Arabia
 MEA=Middle East and Africa
 
 </P>
+<H2>
+!!!标记为链接的为可下载，标记链接加序列号的未更新或者无
 
-
-
+!!!Those marked as links are downloadable, while those marked with a serial number are either not updated or not available.
+</H2>
 
 
 | ID | RU   | TR   | SA   | MEA   | CN150W   | CN240W   | CNSE  |
@@ -47,3 +49,16 @@ MEA=Middle East and Africa
 | 13.1.0.104 | [链接20-1](1/20-1) | [链接20-2](1/20-2) | [链接20-3](1/20-3) | [链接20-4](1/20-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-69c2bb320aaeda56af51dfbf1f97fcaa/component-ota/23/04/27/8388a5bb4ae74c43b6752186304bc77e.zip) | [链接](1/20-6) | [链接20-7](1/20-7) |
 | OTA A.25 | [链接20-1](1/20-1) | [链接20-2](1/20-2) | [链接20-3](1/20-3) | [链接20-4](1/20-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bf85f6c43fbd3773dba1fbe18fde02d4/component-ota/23/03/24/77c363c10d6e4ebb81cbbc4484235b29.zip) | [链接20-6](1/20-6) | [链接20-7](1/20-7) |
 | OTA A.24 | [链接20-1](1/20-1) | [链接20-2](1/20-2) | [链接20-3](1/20-3) | [链接20-4](1/20-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-334eb367a908bdd5f9638c86e0f0f992/component-ota/23/03/17/c6fccd130bd548a98bb4b8e032400616.zip) | [链接20-6](1/20-6) | [链接20-7](1/20-7) |
+
+Rollback Firmware CN
+| 版本号 | 150   | 240   | 
+|---|-------|-------|
+| 14.0.0.903 | [链接](https://rbp01.realme.net/GT_Neo5/506_sign_RMX3706_11_C_OTA_1380_all_GEoCNz_10010111.zip) | [链接](https://rbp01.realme.net/GT_Neo5_240W/508_sign_RMX3708_11_C_OTA_1380_all_VZwF9U_10010111.zip) | 
+| 13.1.0.115 | [链接](https://rbp01.realme.net/GT_Neo5/RMX3706_11_A_OTA_0450_all_kfXLEj_CN.zip) | [链接](https://rbp01.realme.net/GT_Neo5_240W/RMX3708_11_A_OTA_0450_all_MBejmZ_CN.zip) | 
+
+
+
+Rollback Firmware  International
+| 版本号 | RU   | 
+|---|-------|
+| 14.0.0.903 | [链接](https://download.c.realme.com/flash/Rollbackpack/GT3/RMX3709_11_A_OTA_0310_all_5DOdpZ_RU.zip) |
