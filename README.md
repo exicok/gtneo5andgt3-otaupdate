@@ -1,4 +1,24 @@
-| 版本号 | RU   | TR   | SA   | MEA   | CN150W   | CN240W   | CNSE  |
+<h1> 
+gtneo5国内版本有ota更新仓库就会更新，外版本随缘更新
+
+The domestic version of gtneo5 will be updated if there is an OTA update repository, while the international version will be updated at random.
+</h1>
+<P>
+RU=Russian
+
+TR=Turkey
+
+SA=Saudi Arabia
+
+MEA=Middle East and Africa
+
+</P>
+
+
+
+
+
+| ID | RU   | TR   | SA   | MEA   | CN150W   | CN240W   | CNSE  |
 |---|-------|-------|-------|-------|-------|-------|-------|
 | 15.0.0.460 | [链接1-1](1/1-1) | [链接1-2](1/1-2) | [链接1-3](1/1-3) | [链接1-4](1/1-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2ad1ecb93adff7713102dfb22f44fe58/component-ota/25/03/17/7fe82fac646f4a89a048389f491329a0.zip) | [链接1-6](1/1-6) | [链接1-7](1/1-7) |
 | 15.0.0.440 | [链接2-1](1/2-1) | [链接2-2](1/2-2) | [链接2-3](1/2-3) | [链接2-4](1/2-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ef03f3149ad0ba470da7a63837a11049/component-ota/25/02/22/ebe6fbf3b699458d994dadc759f11dbc.zip) | [链接2-6](1/2-6) | [链接2-7](1/2-7) |
@@ -11,8 +31,8 @@
 | 14.0.0.900 | [链接9-1](1/9-1) | [链接9-2](1/9-2) | [链接9-3](1/9-3) | [链接9-4](1/9-4) | [链接](https://gauss-otacostmanual-cn.allawnfs.com/remove-0495932975448ff5b0d01cace2f2361b/component-ota/24/08/17/ee2079591a2c4b8bb22e829f66582ef6.zip) | [链接](https://gauss-otacostmanual-cn.allawnfs.com/remove-0495932975448ff5b0d01cace2f2361b/component-ota/24/08/17/ee2079591a2c4b8bb22e829f66582ef6.zip) | [链接9-7](1/9-7) |
 | 14.0.0.801 | [链接10-1](1/10-1) | [链接10-2](1/10-2) | [链接10-3](1/10-3) | [链接10-4](1/10-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4e85f6f99ab2ea15b050ca4afcf0cc3c/component-ota/24/06/20/c728b060454c4d74b1f5f90c38b4e37a.zip) | [链接10-6](1/10-6) | [链接10-7](1/10-7) |
 | 14.0.0.800 | [链接11-1](1/11-1) | [链接11-2](1/11-2) | [链接11-3](1/11-3) | [链接11-4](1/11-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fe87552a1a9f74397f7a7056704c6801/component-ota/24/06/06/b61491a0f9f44387958858a213f8f9ab.zip) | [链接](https://gauss-otacostmanual-cn.allawnfs.com/remove-0495932975448ff5b0d01cace2f2361b/component-ota/24/08/17/ee2079591a2c4b8bb22e829f66582ef6.zip) | [链接11-7](1/11-7) |
-| 14.0.0.601 | [链接12-1](1/12-1) | [链接12-2](1/12-2) | [链接12-3](1/12-3) | [链接12-4](1/12-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-90457138d710a585b3bc7ec4b8e6a30c/component-ota/24/04/11/125a48e052f047f6b651db2223a67874.zip) | [链接12-6](1/12-6) | [链接12-7](1/12-7) |
-| 14.0.0.411 | [链接13-1](1/13-1) | [链接13-2](1/13-2) | [链接13-3](1/13-3) | [链接13-4](1/13-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c71351fcac7229e4413d997f3a51ab54/component-ota/24/03/12/19aa7fda942c43debf77594fd4c93164.zip) | [链接13-6](1/13-6) | [链接13-7](1/13-7) |
+| 14.0.0.601 | [链接12-1](1/12-1) | [链接12-2](1/12-2) | [链接12-3](1/12-3) | [链接12-4](1/12-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-90457138d710a585b3bc7ec4b8e6a30c/component-ota/24/04/11/125a48e052f047f6b651db2223a67874.zip) | [链接](https://gauss-otacostmanual-cn.allawnfs.com/remove-ecc3a20be045e3431299e7510e9d024f/component-ota/24/04/11/ae90a0e596b640f297bd1312ecdc8102.zip) | [链接12-7](1/12-7) |
+| 14.0.0.411 | [链接13-1](1/13-1) | [链接13-2](1/13-2) | [链接13-3](1/13-3) | [链接13-4](1/13-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c71351fcac7229e4413d997f3a51ab54/component-ota/24/03/12/19aa7fda942c43debf77594fd4c93164.zip) | [链接](https://gauss-otacostauto-cn.allawnfs.com/remove-9a9564f3183fa4b2c3c0089bed53efda/component-ota/24/03/12/8f6b5b995449417681acc5f86d59592c.zip) | [链接13-7](1/13-7) |
 | 14.0.0.213 | [链接14-1](1/14-1) | [链接14-2](1/14-2) | [链接14-3](1/14-3) | [链接14-4](1/14-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-74653b15008d4a6e9ab25d0b9f2316b8/component-ota/24/01/31/d36129819eb14b63bf7a98ce8c479a74.zip) | [链接14-6](1/14-6) | [链接14-7](1/14-7) |
 | 14.0.0.100 | [链接15-1](1/15-1) | [链接15-2](1/15-2) | [链接15-3](1/15-3) | [链接15-4](1/15-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cf397b85b5b35acaaf3a4bc34bd5dbe1/component-ota/23/12/07/9a762b4845d4443f9dd124afeefb6ebf.zip) | [链接15-6](1/15-6) | [链接15-7](1/15-7) |
 | 13.1.0.118 | [链接16-1](1/16-1) | [链接16-2](1/16-2) | [链接16-3](1/16-3) | [链接16-4](1/16-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-756c6b7d0b3eafb85e471fa0e1fc4ddc/component-ota/23/11/22/a0804b7122024c1cb271d50ad9d7b6fd.zip) | [链接16-6](1/16-6) | [链接16-7](1/16-7) |
