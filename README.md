@@ -1,9 +1,13 @@
 
-#  Gneo5国内版本有ota更新仓库就会更新，外版本随缘更新
-
+#   Gneo5国内版本有ota更新仓库就会更新，外版本随缘更新
+>在文档末尾会有可能需要的工具下载链接
 
 >The domestic version of gtneo5 will be updated if there is an OTA update repository, while the international version will be updated at random.
+
+>There will be download links for tools that may be needed at the end of the document.
 </h1>
+
+
 <P>
 RU=Russian
 
@@ -12,7 +16,12 @@ TR=Turkey
 SA=Saudi Arabia
 
 MEA=Middle East and Africa
-大版本退回老版本必须下载
+
+大版本退回老版本必须下载Rollback Firmware固件国行手机下CN标签，国际版本版本Rollback Firmware  International固件
+>To revert to an older version, you must download the Rollback Firmware. For mainland China phones, download the CN version of the firmware; for international versions, download the Rollback Firmware International.
+
+切换中国版到国际系统需要退回C13-13.1.0.115并且下载OPLocalUpdate这个程序
+>Switching the Chinese version to the international system requires reverting to C13-13.1.0.115 and downloading the OPLocalUpdate program.
 </P>
 <H2>
 !!!标记为链接的为可下载，标记链接加序列号的未更新或者无
@@ -52,18 +61,31 @@ MEA=Middle East and Africa
 | OTA A.24 | [链接20-1](1/20-1) | [链接20-2](1/20-2) | [链接20-3](1/20-3) | [链接20-4](1/20-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-334eb367a908bdd5f9638c86e0f0f992/component-ota/23/03/17/c6fccd130bd548a98bb4b8e032400616.zip) | [链接20-6](1/20-6) | [链接20-7](1/20-7) |
 
 Rollback Firmware CN
-| 版本号 | 150   | 240   | 
-|---|-------|-------|
-| 14.0.0.903 | [链接](https://rbp01.realme.net/GT_Neo5/506_sign_RMX3706_11_C_OTA_1380_all_GEoCNz_10010111.zip) | [链接](https://rbp01.realme.net/GT_Neo5_240W/508_sign_RMX3708_11_C_OTA_1380_all_VZwF9U_10010111.zip) | 
-| 13.1.0.115 | [链接](https://rbp01.realme.net/GT_Neo5/RMX3706_11_A_OTA_0450_all_kfXLEj_CN.zip) | [链接](https://rbp01.realme.net/GT_Neo5_240W/RMX3708_11_A_OTA_0450_all_MBejmZ_CN.zip) | 
+>| 版本号 | 150   | 240   | 
+>|---|-------|-------|
+>| 14.0.0.903 | [链接](https://rbp01.realme.net/GT_Neo5/506_sign_RMX3706_11_C_OTA_1380_all_GEoCNz_10010111.zip) | [链接](https://rbp01.realme.net/GT_Neo5_240W/508_sign_RMX3708_11_C_OTA_1380_all_VZwF9U_10010111.zip) | 
+>| 13.1.0.115 | [链接](https://rbp01.realme.net/GT_Neo5/RMX3706_11_A_OTA_0450_all_kfXLEj_CN.zip) | [链接](https://rbp01.realme.net/GT_Neo5_240W/RMX3708_11_A_OTA_0450_all_MBejmZ_CN.zip) | 
 
 
 
 Rollback Firmware  International
-| 版本号 | RU   | 
-|---|-------|
-| 14.0.0.903 | [链接](https://download.c.realme.com/flash/Rollbackpack/GT3/RMX3709_11_A_OTA_0310_all_5DOdpZ_RU.zip) |
+>| 版本号 | RU   | 
+>|---|-------|
+>| 14.0.0.903 | [链接](https://download.c.realme.com/flash/Rollbackpack/GT3/RMX3709_11_A_OTA_0310_all_5DOdpZ_RU.zip) |
 
-QQ:1041111063
+OrangeFox https://github.com/MisterZtr/recovery_device_realme_RMXTARO 
 
-TG: t.me/gtneo5
+Kernel  https://github.com/realme-kernel-opensource/realme_GTneo5-AndroidT-kernel-source
+
+Kernelsu https://kernelsu.org/zh_CN/
+
+lsposed android15 https://github.com/JingMatrix/LSPosed/releases
+
+zygisk next https://github.com/Dr-TSNG/ZygiskNext
+
+sui https://github.com/RikkaApps/Sui/releases
+
+
+>>QQ:1041111063
+
+>>TG: t.me/gtneo5
