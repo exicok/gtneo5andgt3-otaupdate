@@ -32,6 +32,7 @@ MEA=Middle East and Africa
 
 | ID | RU   | TR   | SA   | MEA   | CN150W   | CN240W   | CNSE  |
 |---|-------|-------|-------|-------|-------|-------|-------|
+| 15.0.0.500 | [链接1-1](1/1-1) | [链接1-2](1/1-2) | [链接1-3](1/1-3) | [链接1-4](1/1-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-29305ca4db723cc3c488e2f67ddb9915/component-ota/25/05/28/82096f8a3e254de2a85116a508b46838.zip) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-422c5fad124a39515af81778fb63fec9/component-ota/25/05/28/3a08fa15c51d4cc68e54c98320b9b90a.zip) | [链接1-7](1/1-7) |
 | 15.0.0.460 | [链接1-1](1/1-1) | [链接1-2](1/1-2) | [链接1-3](1/1-3) | [链接1-4](1/1-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2ad1ecb93adff7713102dfb22f44fe58/component-ota/25/03/17/7fe82fac646f4a89a048389f491329a0.zip) | [链接1-6](1/1-6) | [链接1-7](1/1-7) |
 | 15.0.0.440 | [链接2-1](1/2-1) | [链接2-2](1/2-2) | [链接2-3](1/2-3) | [链接2-4](1/2-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ef03f3149ad0ba470da7a63837a11049/component-ota/25/02/22/ebe6fbf3b699458d994dadc759f11dbc.zip) | [链接2-6](1/2-6) | [链接2-7](1/2-7) |
 | 15.0.0.430 | [链接3-1](1/3-1) | [链接3-2](1/3-2) | [链接3-3](1/3-3) | [链接3-4](1/3-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f2d3ec4ab9070574a866e13738b07df0/component-ota/25/01/22/495a04ff65084aa7bde013ca02f973d8.zip) | [链接3-6](1/3-6) | [链接3-7](1/3-7) |
