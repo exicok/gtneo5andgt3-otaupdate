@@ -32,6 +32,7 @@ MEA=Middle East and Africa
 
 | ID | RU   | TR   | SA   | MEA   | CN150W   | CN240W   | CNSE  |
 |---|-------|-------|-------|-------|-------|-------|-------|
+| 15.0.0.510 | [链接](https://gauss-opexcostmanual-eu.allawnofs.com/remove-3953aa4ccc0e7f1fba0d61472480dcbc/component-ota/25/07/15/3a21220b87e9420ab6162533d8252b2d.zip) | [链接](https://gauss-opexcostmanual-sg.allawnofs.com/remove-adb7bb2f72af8fc89633047fd853a042/component-ota/25/07/15/e76e197b5c7347b3860767385ef9da1a.zip) | [链接1-3](1/1-3) | [链接1-4](1/1-4) | [none]() | [none]() | [链接1-7](1/1-7) |
 | 15.0.0.500 | [链接1-1](1/1-1) | [链接1-2](1/1-2) | [链接1-3](1/1-3) | [链接1-4](1/1-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-29305ca4db723cc3c488e2f67ddb9915/component-ota/25/05/28/82096f8a3e254de2a85116a508b46838.zip) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-422c5fad124a39515af81778fb63fec9/component-ota/25/05/28/3a08fa15c51d4cc68e54c98320b9b90a.zip) | [链接1-7](1/1-7) |
 | 15.0.0.460 | [链接1-1](1/1-1) | [链接1-2](1/1-2) | [链接1-3](1/1-3) | [链接1-4](1/1-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2ad1ecb93adff7713102dfb22f44fe58/component-ota/25/03/17/7fe82fac646f4a89a048389f491329a0.zip) | [链接1-6](1/1-6) | [链接1-7](1/1-7) |
 | 15.0.0.440 | [链接2-1](1/2-1) | [链接2-2](1/2-2) | [链接2-3](1/2-3) | [链接2-4](1/2-4) | [链接](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ef03f3149ad0ba470da7a63837a11049/component-ota/25/02/22/ebe6fbf3b699458d994dadc759f11dbc.zip) | [链接2-6](1/2-6) | [链接2-7](1/2-7) |
@@ -64,7 +65,7 @@ MEA=Middle East and Africa
 Rollback Firmware CN
 >| 版本号 | 150   | 240   | 
 >|---|-------|-------|
->| 14.0.0.903 | [链接](https://rbp01.realme.net/GT_Neo5/506_sign_RMX3706_11_C_OTA_1380_all_GEoCNz_10010111.zip) | [链接](https://rbp01.realme.net/GT_Neo5_240W/508_sign_RMX3708_11_C_OTA_1380_all_VZwF9U_10010111.zip) | 
+>| 14.0.0.900 | [链接](https://rbp01.realme.net/GT_Neo5/506_sign_RMX3706_11_C_OTA_1380_all_GEoCNz_10010111.zip) | [链接](https://rbp01.realme.net/GT_Neo5_240W/508_sign_RMX3708_11_C_OTA_1380_all_VZwF9U_10010111.zip) | 
 >| 13.1.0.115 | [链接](https://rbp01.realme.net/GT_Neo5/RMX3706_11_A_OTA_0450_all_kfXLEj_CN.zip) | [链接](https://rbp01.realme.net/GT_Neo5_240W/RMX3708_11_A_OTA_0450_all_MBejmZ_CN.zip) | 
 
 
@@ -72,7 +73,7 @@ Rollback Firmware CN
 Rollback Firmware  International
 >| 版本号 | RU   | 
 >|---|-------|
->| 14.0.0.903 | [链接](https://download.c.realme.com/flash/Rollbackpack/GT3/RMX3709_11_A_OTA_0310_all_5DOdpZ_RU.zip) |
+>| 14.0.0.900 | [链接](https://download.c.realme.com/flash/Rollbackpack/GT3/RMX3709_11_A_OTA_0310_all_5DOdpZ_RU.zip) |
 
 OrangeFox https://github.com/MisterZtr/recovery_device_realme_RMXTARO 
 
