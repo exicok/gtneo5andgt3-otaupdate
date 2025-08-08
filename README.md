@@ -24,8 +24,7 @@ MEA=Middle East and Africa
 大版本退回老版本必须下载Rollback Firmware固件国行手机下CN标签，国际版本版本Rollback Firmware  International固件
 >To revert to an older version, you must download the Rollback Firmware. For mainland China phones, download the CN version of the firmware; for international versions, download the Rollback Firmware International.
 
-切换中国版到国际系统需要退回C13-13.1.0.115并且下载OPLocalUpdate这个程序
->Switching the Chinese version to the international system requires reverting to C13-13.1.0.115 and downloading the OPLocalUpdate program.
+切换中国版到国际系统需要退回C13-13.1.0.115并且下载在fastbootd刷入
 </P>
 <H2>
 !!!标记为链接的为可下载，标记链接加序列号的未更新或者无
