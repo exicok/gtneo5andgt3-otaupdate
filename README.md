@@ -1,5 +1,9 @@
 
 #   Gneo5/gt3-otaupdate
+For Downloading on PC - Aria2c script 
+For Downloading on PC - Extractor Toolkit 
+For Downloading on Phone - 1DM 
+For Downloading on Phone - Aria2App 
 >在文档末尾会有可能需要的工具下载链接
 
 >The domestic version of gtneo5 will be updated if there is an OTA update repository, while the international version will be updated at random.
