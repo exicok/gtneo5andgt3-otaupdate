@@ -1,5 +1,5 @@
 
-#   Gneo5国内版本有ota更新仓库就会更新，外版本随缘更新
+#   Gneo5/gt3-otaupdate
 >在文档末尾会有可能需要的工具下载链接
 
 >The domestic version of gtneo5 will be updated if there is an OTA update repository, while the international version will be updated at random.
